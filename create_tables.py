@@ -32,6 +32,7 @@ def create_tables(cur, conn):
         cur.execute(query)
         conn.commit()
 
+#teste
 
 def main():
 
